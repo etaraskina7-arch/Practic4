@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Маленький Принц</string>
+    <string name="btn_morning">Утро</string>
+    <string name="btn_day">День</string>
+    <string name="btn_evening">Вечер</string>
+    <string name="btn_night">Ночь</string>
+</resources>
